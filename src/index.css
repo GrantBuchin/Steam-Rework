@@ -1,9 +1,13 @@
 body {
-  background-color: #00008B;
+  background-color: #00008b;
   padding: 20px;
   margin: 0;
 }
-h1, h2, p, ul, li {
+h1,
+h2,
+p,
+ul,
+li {
   font-family: sans-serif;
 }
 ul.header li {
@@ -16,14 +20,14 @@ ul.header {
   padding: 0;
 }
 ul.header li a {
-  color: #FFF;
+  color: #fff;
   font-weight: bold;
   text-decoration: none;
   padding: 20px;
   display: inline-block;
 }
 .content {
-  background-color:  #00008B;
+  background-color: #00008b;
   padding: 20px;
 }
 .content h2 {
@@ -32,18 +36,8 @@ ul.header li a {
 }
 .content li {
   margin-bottom: 10px;
-  
 }
 
 .active {
-  background-color: 	#90EE90;
+  background-color: #90ee90;
 }
-
-
-  .reframe {
-    position: relative;
-    width: 210px;
-    height: 140px;
-    left: 20px;
-    top: 14px;
-  }
