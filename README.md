@@ -1,3 +1,6 @@
+A prject i did during school revolving around Javascript. I might touch up on this a little later at some point to get back into Javascript.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
